@@ -7,7 +7,7 @@ Flavoro is a modern restaurant website application that offers a user-friendly i
 - **Menu Browsing**: View a wide variety of food items with detailed descriptions.
 - **Shopping Cart**: Easily add items to the cart and manage quantities.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **User Authentication**: Secure login and registration functionality (if implemented).
+- **User Authentication**: Secure login and registration functionality .
 
 ## Technologies Used
 
