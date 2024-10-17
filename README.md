@@ -13,7 +13,7 @@ Flavoro is a modern restaurant website application that offers a user-friendly i
 
 - **Frontend**: React, Vite, Material-UI
 - **Styling**: CSS, Tailwind CSS
-- **Deployment**: Vercel (or preferred hosting)
+- **Deployment**: Vercel
 
 ## Installation
 
