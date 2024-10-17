@@ -1,0 +1,15 @@
+name: Fix Permissions
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set Permissions
+        run: |
+          chmod +x ./node_modules/.bin/vite
+          npm install
