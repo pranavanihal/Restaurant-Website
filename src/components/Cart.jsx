@@ -58,7 +58,7 @@ const Cart = () => {
           </h3>
           <hr className="w-[90vw] lg:w-[18vw] my-2" />
           <button
-            onClick={() => navigate("/success")}
+            onClick={() => window.location.href = "https://rzp.io/rzp/YO7soAdI"}
             className="bg-green-500 font-bold px-3 text-white py-2 rounded-lg w-[90vw] lg:w-[18vw] mb-5"
           >
             Checkout
