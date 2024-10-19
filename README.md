@@ -7,7 +7,7 @@ Flavoro is a modern restaurant website application that offers a user-friendly i
 - **Menu Browsing**: View a wide variety of food items with detailed descriptions.
 - **Shopping Cart**: Easily add items to the cart and manage quantities.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **User Authentication**: Secure login and registration functionality .
+- **Payment Gateway**: Added a static Razorpay payment gateway to my page .
 
 ## Technologies Used
 
@@ -32,5 +32,5 @@ Flavoro is a modern restaurant website application that offers a user-friendly i
 
 ## Future Enhancements
 
-In future updates, I plan to implement a backend using Node.js and Express, along with a database (MongoDB) for better data management. Additionally, I will integrate a payment gateway to facilitate online transactions, enhancing the overall user experience.
+In future updates, I plan to implement a backend using Node.js and Express, along with a database (MongoDB) for better data management. Additionally, I will integrate a payment gateway to facilitate online transactions, enhancing the real-time user experience.
 
